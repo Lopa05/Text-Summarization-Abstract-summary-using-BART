@@ -1,4 +1,4 @@
-# Text Summarisation with BART (T8)
+# Text Summarisation with BART 
 
 This project demonstrates **abstractive text summarisation** using Hugging Face's **BART model** (`facebook/bart-large-cnn`) on the **CNN/DailyMail dataset**.  
 Implemented in Jupyter Notebook: **Text summarisation T8.ipynb**.
